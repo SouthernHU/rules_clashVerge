@@ -1,0 +1,11 @@
+# 学术网站
+
+# 西交
+# 学术网站
+
+# 西交
+- '+.xjtu.edu.cn'
+- '+.idp.xjtu.edu.cn'
+- '+.edu.cn'
+# 学术网站
+- '+.sciencedirect.com'
